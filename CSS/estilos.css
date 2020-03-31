@@ -1,0 +1,33 @@
+#barra{
+    float: left;
+}
+
+#margen{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#margen2{
+    padding-left: 19%;
+    padding-right: 19%;
+}
+
+margen3{
+    padding: 0%
+}
+
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    li a{
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 13px;
+        text-decoration: none;
+        float: left;
+    }
